@@ -51,7 +51,7 @@ interview-workbench/
 ### 一句话安装（复制给你的 Agent）
 
 ```text
-帮我安装面试工作台：https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/docs/install.md
+帮我安装面试工作台：https://raw.githubusercontent.com/liangjing025-hash/offer-hunter/main/docs/install.md
 ```
 
 复制这句话给你的 Agent，它几分钟内就会帮你装好这个 skill。
@@ -59,7 +59,7 @@ interview-workbench/
 已装过？更新也只需一句话：
 
 ```text
-帮我更新面试工作台：https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/docs/update.md
+帮我更新面试工作台：https://raw.githubusercontent.com/liangjing025-hash/offer-hunter/main/docs/update.md
 ```
 
 ### 脚本安装
